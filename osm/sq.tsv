@@ -1,0 +1,943 @@
+rruga 	1	2563
+e 	1	958
+rruga e 	2	356
+i 	1	204
+bar 	1	191
+bulevardi 	1	131
+kafe 	1	116
+shkolla 	1	105
+bar kafe 	2	99
+mehmet 	1	76
+autostrada 	1	67
+bank 	1	67
+sheshi 	1	57
+pashë 	1	50
+plaku 	1	46
+autostrada tiranë-elbasan 	2	46
+tiranë-elbasan 	1	46
+ali 	1	44
+unaza 	1	43
+kisha 	1	43
+pashë plaku 	2	41
+bulevardi mehmet pashë 	3	41
+bulevardi mehmet 	2	41
+mehmet pashë 	2	41
+bulevardi mehmet pashë plaku 	4	41
+mehmet pashë plaku 	3	41
+hoxha 	1	35
+hotel 	1	33
+lavazh 	1	33
+qemal 	1	32
+universiteti 	1	32
+restorant 	1	31
+elbasanit 	1	29
+tirana 	1	29
+ura 	1	29
+ismail 	1	29
+qafa 	1	28
+rruga qafa 	2	28
+qafa e 	2	28
+xhamia 	1	28
+rruga qafa e 	3	28
+hasan 	1	27
+rruga qemal 	2	27
+ura e 	2	26
+frashëri 	1	26
+kisha e 	2	26
+ibrahim 	1	26
+zogu 	1	26
+isuf 	1	25
+demokracia 	1	25
+zef 	1	25
+shën 	1	25
+zogu i 	2	25
+restaurant 	1	25
+at 	1	24
+e re 	2	24
+farmaci 	1	24
+re 	1	24
+gjergj 	1	24
+rruga e elbasanit 	3	23
+e elbasanit 	2	23
+hysen 	1	23
+bajram 	1	22
+shkolla e 	2	22
+abdulla 	1	22
+bulevardi zogu i 	3	22
+rruga at 	2	22
+bulevardi zogu 	2	22
+dëshmorët 	1	20
+peqin 	1	20
+cafe 	1	20
+elbasan 	1	20
+kavajës 	1	20
+nr. 	1	20
+adem 	1	20
+posta 	1	19
+skënderbeu 	1	19
+curri 	1	19
+ë 	1	19
+mustafa 	1	19
+sokoli 	1	19
+gjon 	1	19
+unazës 	1	19
+rruga e unazës 	3	19
+fishta 	1	19
+e unazës 	2	19
+dr. 	1	19
+kazazi 	1	18
+mihal 	1	18
+fakulteti 	1	18
+xhamia e 	2	18
+kongresi 	1	18
+unaza ë 	2	18
+rruga ibrahim 	2	18
+bajram curri 	2	18
+unaza ë rë 	3	18
+tiranë 	1	18
+studenti 	1	18
+rruga dr. 	2	18
+rë 	1	18
+fakulteti i 	2	18
+kongresi i 	2	18
+ë rë 	2	18
+formula e 	2	17
+rruga ali 	2	17
+ahmet 	1	17
+rruga ismail 	2	17
+rruga qafa e bishtkazit 	4	17
+e pagëzimit 	2	17
+durrësit 	1	17
+formula 	1	17
+te 	1	17
+nëntori 	1	17
+qafa e bishtkazit 	3	17
+e bishtkazit 	2	17
+pagëzimit 	1	17
+formula e pagëzimit 	3	17
+rruga hysen 	2	17
+bishtkazit 	1	17
+vila 	1	17
+rruga isuf 	2	17
+shkolla e mesme 	3	16
+maqedonisë 	1	16
+kadri 	1	16
+durrës 	1	16
+e mesme 	2	16
+mesme 	1	16
+bashkia 	1	16
+sheshi demokracia 	2	16
+oil 	1	16
+qendra 	1	16
+bushati 	1	16
+rruga hasan 	2	16
+kodra 	1	15
+riza 	1	15
+gjovalin gjadri 	2	15
+shehu 	1	15
+gjergj fishta 	2	15
+sulejman 	1	15
+gjovalin 	1	15
+andon 	1	15
+shen 	1	15
+vasil 	1	15
+gjadri 	1	15
+universiteti i 	2	15
+e shën 	2	15
+hamit 	1	15
+dhe 	1	15
+e maqedonisë 	2	15
+rruga qemal draçini 	3	14
+e shegave 	2	14
+shegave 	1	14
+jani 	1	14
+rruga e shegave 	3	14
+gjimnazi 	1	14
+kol 	1	14
+rruga ethem 	2	14
+posta e 	2	14
+abdyl 	1	14
+rruga studenti 	2	14
+rruga kole 	2	14
+sul 	1	14
+krashnica 	1	14
+qemal draçini 	2	14
+stacioni 	1	14
+posta e maqedonisë 	3	14
+abdulla krashnica 	2	14
+dëshmorët e 	2	14
+rruga shtate 	2	14
+ethem 	1	14
+poliçan-mbrakull 	1	14
+spitali 	1	14
+shtate 	1	14
+martin 	1	14
+rruga mehmet 	2	14
+draçini 	1	14
+shaljanet 	1	14
+nikgjonaj 	1	14
+e durrësit 	2	14
+agron 	1	14
+rruga nikgjonaj 	2	14
+rruga shtate shaljanet 	3	14
+varrezat 	1	14
+qazim 	1	14
+nentori 	1	14
+thoma 	1	14
+selim 	1	14
+gega 	1	14
+shtate shaljanet 	2	14
+kole 	1	14
+egnatia 	1	13
+muhamet 	1	13
+koço 	1	13
+rruga agron 	2	13
+peshkopi 	1	13
+rruga pazarit 	2	13
+rruga adem 	2	13
+shëtitorja 	1	13
+e kavajës 	2	13
+center 	1	13
+camaj 	1	13
+rruga martin 	2	13
+rruga sulejman 	2	13
+pallati 	1	13
+pazarit 	1	13
+martin camaj 	2	13
+rruga martin camaj 	3	13
+rruga e kavajës 	3	13
+rilindja 	1	13
+stafa 	1	13
+rruga kol 	2	13
+pasha 	1	13
+poligoni 	1	13
+autostrada tiranë 	2	13
+musa 	1	13
+arben 	1	13
+varrezat e 	2	13
+gostime 	1	12
+gostime gjyrale 	2	12
+rruga hoxha 	2	12
+marin 	1	12
+rruga zef 	2	12
+bulevardi bajram curri 	3	12
+rruga gjon 	2	12
+tiranës 	1	12
+rruga nr. 	2	12
+pogej 	1	12
+rruga selim 	2	12
+bulevardi skënderbeu 	2	12
+raiffeisen 	1	12
+qemal stafa 	2	12
+gjyrale 	1	12
+kastrati 	1	12
+gurakuqi 	1	12
+parking 	1	12
+coffe 	1	12
+bulevardi bajram 	2	12
+bar coffe 	2	12
+rruga gostime gjyrale 	3	12
+rruga pogej 	2	12
+haxhi 	1	12
+rruga gostime 	2	12
+dibrës 	1	11
+sotir 	1	11
+shetitorja 	1	11
+rruga ing. gjovalin gjadri 	4	11
+dervish 	1	11
+mbreti 	1	11
+buzuku 	1	11
+gjon buzuku 	2	11
+rruga ethem kazazi 	3	11
+pjetër 	1	11
+ing. 	1	11
+idromeno 	1	11
+rruga ing. gjovalin 	3	11
+noli 	1	11
+rruga ing. 	2	11
+tasim 	1	11
+petrela 	1	11
+rruga e durrësit 	3	11
+hoxha tasim 	2	11
+of 	1	11
+ing. gjovalin 	2	11
+park 	1	11
+rruga mustafa 	2	11
+kisha e shën 	3	11
+marku 	1	11
+ethem kazazi 	2	11
+ing. gjovalin gjadri 	3	11
+rruga hoxha tasim 	3	11
+bujar 	1	11
+astrit 	1	10
+rruga fier-tiranë 	2	10
+kuvendi 	1	10
+xoxa 	1	10
+aliu 	1	10
+bar restaurant 	2	10
+qemali 	1	10
+dardania 	1	10
+detit 	1	10
+demi 	1	10
+bekteshi 	1	10
+arben broci 	2	10
+karl 	1	10
+rugova 	1	10
+rruga qemal stafa 	3	10
+naim 	1	10
+transbalkanika 	1	10
+byrekë 	1	10
+sali 	1	10
+levizja 	1	10
+shqiptare 	1	10
+godina 	1	10
+rruga transbalkanika 	2	10
+rruga sulejman delvina 	3	10
+ismail qemali 	2	10
+nikolla 	1	10
+rinia 	1	10
+zogajve 	1	10
+broci 	1	10
+rruga e zogajve 	3	10
+rruga kol idromeno 	3	10
+delvina 	1	10
+kukes 	1	10
+jashari 	1	10
+kol idromeno 	2	10
+muharrem 	1	10
+raiffeisen bank 	2	10
+fier-tiranë 	1	10
+pal 	1	10
+ibrahim rugova 	2	10
+luigj 	1	10
+rruga kadri 	2	10
+sulejman delvina 	2	10
+faik 	1	10
+stacioni i 	2	10
+anton 	1	10
+e zogajve 	2	10
+pashe 	1	9
+kombit 	1	9
+e kombit 	2	9
+shirokes 	1	9
+tirana bank 	2	9
+rruga e semanit 	3	9
+bashkia e 	2	9
+levizja e 	2	9
+sul starovari 	2	9
+gjuhadol 	1	9
+rruga arben 	2	9
+sami 	1	9
+kurti 	1	9
+qazimi 	1	9
+rruga ibrahim rugova 	3	9
+starovari 	1	9
+levizja e postribes 	3	9
+gjin 	1	9
+lidhja 	1	9
+vjetër 	1	9
+semanit 	1	9
+vore 	1	9
+rruga e shirokes 	3	9
+podgorica 	1	9
+hamit dollani 	2	9
+ridvan 	1	9
+dollani 	1	9
+fan 	1	9
+rruga levizja 	2	9
+postribes 	1	9
+ridvan qazimi 	2	9
+bashkimi 	1	9
+e shirokes 	2	9
+rruga musa 	2	9
+xhorxh 	1	9
+unaza nuredin 	2	9
+vaso 	1	9
+rruga levizja e postribes 	4	9
+frasheri 	1	9
+rruga levizja e 	3	9
+rruga gjuhadol 	2	9
+e postribes 	2	9
+bar restorant 	2	9
+nuredin 	1	9
+jakov 	1	9
+school 	1	9
+kodra e 	2	9
+unaza nuredin aliu 	3	9
+lezhe 	1	9
+zenel 	1	9
+nuredin aliu 	2	9
+e semanit 	2	9
+vangjel 	1	9
+haki 	1	8
+gjykata 	1	8
+bulevardi bujar 	2	8
+syri i 	2	8
+pjeter 	1	8
+ali pashe 	2	8
+engjelli 	1	8
+rruga arben broci 	3	8
+dhimiter 	1	8
+w. 	1	8
+bush 	1	8
+rruga e re 	3	8
+arkitekt 	1	8
+cerrik-elbasan 	1	8
+shkëmbi i 	2	8
+shkodra 	1	8
+bishanaku 	1	8
+trenit 	1	8
+bujar bishanaku 	2	8
+shkëmbi 	1	8
+fan noli 	2	8
+ramiz 	1	8
+kristaq 	1	8
+xhemal 	1	8
+republika 	1	8
+isuf sokoli 	2	8
+korçës 	1	8
+teatri 	1	8
+club 	1	8
+road 	1	8
+filip 	1	8
+zef jubani 	2	8
+kraja 	1	8
+rruga kongresi 	2	8
+rruga tepe 	2	8
+elda 	1	8
+hasan podgorica 	2	8
+bogdani 	1	8
+mujo 	1	8
+rruga hasan podgorica 	3	8
+heqimi 	1	8
+union 	1	8
+kosova 	1	8
+justin 	1	8
+petro 	1	8
+gani 	1	8
+diellit 	1	8
+hekali 	1	8
+tepe 	1	8
+jubani 	1	8
+airport 	1	8
+adem jashari 	2	8
+rruga kole heqimi 	3	8
+pizza 	1	8
+w. bush 	2	8
+liqeni 	1	8
+ii 	1	8
+dentare 	1	8
+piceri 	1	8
+rruga vasil 	2	8
+bulevardi bujar bishanaku 	3	8
+rruga kongresi i 	3	8
+ymer 	1	8
+e dibrës 	2	8
+rruga isuf sokoli 	3	8
+kole heqimi 	2	8
+enver 	1	8
+banka 	1	8
+rruga mihal 	2	8
+syri 	1	8
+antipatrea 	1	7
+të 	1	7
+vllazërit 	1	7
+rruga pal engjelli 	3	7
+moisiu 	1	7
+vllazërit frashëri 	2	7
+pavarësia 	1	7
+rruga shkëmbi i kavajës 	4	7
+selaudin 	1	7
+muhamet gjollesha 	2	7
+shtregullave 	1	7
+rruga pavarësia 	2	7
+rada 	1	7
+rruga pjeter 	2	7
+fast food 	2	7
+rruga vllazërit 	2	7
+drejtoria e 	2	7
+rruga andon 	2	7
+ludovik 	1	7
+kristo 	1	7
+rruga ymer 	2	7
+kongresi i lushnjes 	3	7
+spahia 	1	7
+kokona 	1	7
+muzaka 	1	7
+vaso kadia 	2	7
+luigj gurakuqi 	2	7
+lagjia 	1	7
+golemi 	1	7
+jonuz 	1	7
+hamz kazazi 	2	7
+kuvendi i 	2	7
+rruga myzafer 	2	7
+rruga e dibrës 	3	7
+osmani 	1	7
+hamz 	1	7
+çajupi 	1	7
+topulli 	1	7
+rruga ajasmës 	2	7
+lushnjes 	1	7
+rruga vaso kadia 	3	7
+golemit 	1	7
+gjoka 	1	7
+kulla 	1	7
+mara 	1	7
+unaza e 	2	7
+marsi 	1	7
+ramadani 	1	7
+rruga vllazërit frashëri 	3	7
+kadia 	1	7
+rruga gjin 	2	7
+besim 	1	7
+pipa 	1	7
+rruga esat 	2	7
+xhaferr 	1	7
+ajasmës 	1	7
+rruga ismail qemali 	3	7
+ndre 	1	7
+rruga pal 	2	7
+at zef 	2	7
+petrit 	1	7
+i lushnjes 	2	7
+i kavajës 	2	7
+kastrioti 	1	7
+rajonal 	1	7
+shllaku 	1	7
+jorgji 	1	7
+gjollesha 	1	7
+rruga myzafer pipa 	3	7
+house 	1	7
+rruga hamz kazazi 	3	7
+tirana airport 	2	7
+laçej 	1	7
+rruga at zef 	3	7
+rruga shtregullave 	2	7
+kryeziu 	1	7
+qamil 	1	7
+rruga vaso 	2	7
+tregu 	1	7
+rruga hamz 	2	7
+rruga shkëmbi i 	3	7
+university 	1	7
+rruga antipatrea 	2	7
+jakov xoxa 	2	7
+rruga shkëmbi 	2	7
+rruga thoma 	2	7
+dukagjini 	1	7
+myzafer 	1	7
+gjykata e 	2	7
+shyqyri 	1	7
+asdreni 	1	7
+maji 	1	7
+drejtoria 	1	7
+food 	1	7
+luarasi 	1	7
+pal engjelli 	2	7
+myzafer pipa 	2	7
+esat 	1	7
+shkëmbi i kavajës 	3	7
+fast 	1	7
+rruga anton 	2	7
+at gjergj 	2	6
+marin beçikemi 	2	6
+ulqinaku 	1	6
+parë 	1	6
+bulevardi dëshmorët e kombit 	4	6
+qeshori 	1	6
+tirane 	1	6
+stacion 	1	6
+rruga dr. ali spahia 	4	6
+rruga zef jubani 	3	6
+komnena 	1	6
+kadri hoxha 	2	6
+e pojskës 	2	6
+xhorxh w. 	2	6
+alla 	1	6
+ali demi 	2	6
+vath 	1	6
+naim frashëri 	2	6
+hysen laçej 	2	6
+kavajes 	1	6
+kalefi 	1	6
+stadiumit 	1	6
+de rada 	2	6
+rruga hysen laçej 	3	6
+biblioteka 	1	6
+toptani 	1	6
+fabrika 	1	6
+rruga qazim 	2	6
+xhorxh w. bush 	3	6
+sinani 	1	6
+rruga dr. selaudin 	3	6
+tepelena 	1	6
+thoma kalefi 	2	6
+makinash 	1	6
+rruga dervishej 	2	6
+panorama 	1	6
+bulevardi dëshmorët 	2	6
+rruga ahmet 	2	6
+kombëtare 	1	6
+fier 	1	6
+pashko 	1	6
+fahri 	1	6
+aleksandër 	1	6
+high 	1	6
+dëshmorët e kombit 	3	6
+karl gega 	2	6
+kompleksi 	1	6
+dental 	1	6
+liqenit 	1	6
+de 	1	6
+dine 	1	6
+rruga fahri ramadani 	3	6
+dr. selaudin bekteshi 	3	6
+rruga dr. ali 	3	6
+rruga filip 	2	6
+dr. selaudin 	2	6
+guranjaku 	1	6
+bulevardi gjergj 	2	6
+lekaj 	1	6
+fahri ramadani 	2	6
+kukes peshkopi 	2	6
+bicaj 	1	6
+zef valentini 	2	6
+dr. ali 	2	6
+petrol 	1	6
+oso 	1	6
+e detit 	2	6
+tregtare 	1	6
+dibra 	1	6
+popa 	1	6
+rruga sami 	2	6
+jeronim 	1	6
+rruga lidhja 	2	6
+rruga nikolla 	2	6
+rruga çakej 	2	6
+sadik 	1	6
+leonardo 	1	6
+shtëpia 	1	6
+çerçiz topulli 	2	6
+selim bushati 	2	6
+llambi 	1	6
+pasticeri 	1	6
+luli 	1	6
+çakej 	1	6
+teuta 	1	6
+grigor 	1	6
+ali spahia 	2	6
+qershori 	1	6
+lidhja e 	2	6
+bashkiake 	1	6
+rruga thoma kalefi 	3	6
+sami frashëri 	2	6
+at gjergj fishta 	3	6
+bulevardi dëshmorët e 	3	6
+rruga danej 	2	6
+frangu 	1	6
+abdyl frashëri 	2	6
+rruga marin 	2	6
+teodor 	1	6
+klinika 	1	6
+rruga selim bushati 	3	6
+prifti 	1	6
+beçikemi 	1	6
+shtëpia e 	2	6
+barleti 	1	6
+per 	1	6
+çerçiz 	1	6
+bar cafe 	2	6
+dëshmorët e pojskës 	3	6
+thanas 	1	6
+dituria 	1	6
+agim 	1	6
+themeli 	1	6
+dr. ali spahia 	3	6
+nazmi 	1	6
+dervishej 	1	6
+rruga gjon buzuku 	3	6
+rruga astrit 	2	6
+i tiranës 	2	6
+marie 	1	6
+i trenit 	2	6
+at zef valentini 	3	6
+rruga vangjel 	2	6
+iliria 	1	6
+albania 	1	6
+rruga skënderbeu 	2	6
+unaza e re 	3	6
+hafiz 	1	6
+prizrenit 	1	6
+selaudin bekteshi 	2	6
+kasem 	1	6
+rruga fahri 	2	6
+danej 	1	6
+industriale 	1	6
+valentini 	1	6
+bardhyl 	1	6
+e stadiumit 	2	6
+stacioni i trenit 	3	6
+tereza 	1	6
+rruga at zef valentini 	4	6
+rruga bardhyl 	2	6
+spiro 	1	6
+marin barleti 	2	6
+sadik petrela 	2	6
+usta 	1	6
+fabrika e 	2	6
+rruga bajram 	2	6
+pojskës 	1	6
+vellezerit 	1	6
+rruga dr. selaudin bekteshi 	4	6
+rruga marin beçikemi 	3	6
+station 	1	6
+besnik 	1	5
+rruga roza 	2	5
+gjergj kastrioti 	2	5
+rruga nazmi kryeziu 	3	5
+pub 	1	5
+hani 	1	5
+dom 	1	5
+roza 	1	5
+tranës 	1	5
+parruca 	1	5
+rruga teodori ii 	3	5
+jeronim de 	2	5
+rruga teodori ii muzaka 	4	5
+agimi 	1	5
+rruga dom 	2	5
+shetitorja e 	2	5
+gentian 	1	5
+baba 	1	5
+rruga demokracia 	2	5
+rustemi 	1	5
+minierave 	1	5
+rruga kadri hoxha 	3	5
+petro nini 	2	5
+rruga teodori 	2	5
+jeronim de rada 	3	5
+fakulteti i gjeologjisë 	3	5
+gjeologjisë dhe 	2	5
+hungarez 	1	5
+lasgush 	1	5
+demir 	1	5
+rruga e peshkatarëve 	3	5
+orikum 	1	5
+fuat 	1	5
+nika 	1	5
+hospital 	1	5
+e madhe 	2	5
+e liqenit 	2	5
+rruga revolucioni antikomunist 	3	5
+shenjt 	1	5
+high school 	2	5
+hasan riza 	2	5
+shkolla fillore 	2	5
+palma 	1	5
+rruga dervish 	2	5
+gucia 	1	5
+kodra e diellit 	3	5
+e peshkatarëve 	2	5
+teodori ii 	2	5
+avni rustemi 	2	5
+nazmi kryeziu 	2	5
+rusi 	1	5
+rruga haxhi 	2	5
+i gjeologjisë dhe 	3	5
+rruga revolucioni antikomunist hungarez 	4	5
+rruga justin 	2	5
+vath turja 	2	5
+rruga gjin zenebishti 	3	5
+dani 	1	5
+andrea 	1	5
+partizani 	1	5
+avni 	1	5
+qender 	1	5
+së 	1	5
+katolike 	1	5
+nuri 	1	5
+fillore 	1	5
+peshkatarëve 	1	5
+shenjt leonardo 	2	5
+rruga nuri 	2	5
+selvijave 	1	5
+rruga nazmi 	2	5
+rruga selvijave 	2	5
+liqeni i 	2	5
+antikomunist hungarez 	2	5
+deshmoret e 	2	5
+riza pasha 	2	5
+rruga hasan riza pasha 	4	5
+rruga rrojej 	2	5
+taulantia 	1	5
+gjin zenebishti 	2	5
+shkurti 	1	5
+shkreli 	1	5
+kopshti 	1	5
+emin 	1	5
+tregu i 	2	5
+tupa 	1	5
+kolegji 	1	5
+revolucioni antikomunist hungarez 	3	5
+antikomunist 	1	5
+rruga hasan riza 	3	5
+zyma 	1	5
+lasgush poradeci 	2	5
+me 	1	5
+musai 	1	5
+sheshi i 	2	5
+aleksandër moisiu 	2	5
+e thores 	2	5
+pallati i 	2	5
+the 	1	5
+zhan d'ark 	2	5
+gjeologjisë 	1	5
+i gjeologjisë dhe minierave 	4	5
+mujo ulqinaku 	2	5
+e vjetër 	2	5
+mustafa matohiti 	2	5
+internet 	1	5
+murialdo 	1	5
+lidhja e prizrenit 	3	5
+rruga at gjergj 	3	5
+rruga revolucioni 	2	5
+bulevardi gjergj fishta 	3	5
+rruga kumbullave 	2	5
+begut 	1	5
+rruga karl 	2	5
+meta 	1	5
+jakup 	1	5
+deshmoret 	1	5
+revolucioni antikomunist 	2	5
+rrga lekaj 	2	5
+e korçës 	2	5
+koliqi 	1	5
+kosta 	1	5
+ortodokse 	1	5
+bulevardi zhan d'ark 	3	5
+universiteti i tranës 	3	5
+porta 	1	5
+hasan riza pasha 	3	5
+bypass 	1	5
+e prizrenit 	2	5
+dervishi 	1	5
+rruga bicaj 	2	5
+papa 	1	5
+beqir 	1	5
+rruga sali 	2	5
+rozafa 	1	5
+rruga qafa e agrit 	4	5
+d'ark 	1	5
+madhe 	1	5
+stavri 	1	5
+kulla e 	2	5
+prizreni 	1	5
+matohiti 	1	5
+tafaj 	1	5
+aleksander 	1	5
+bulevardi zhan 	2	5
+tashko 	1	5
+fushë 	1	5
+skenderbeg 	1	5
+policisë 	1	5
+faik konica 	2	5
+rruga shenjt leonardo 	3	5
+e agrit 	2	5
+lavazh makinash 	2	5
+qendressa 	1	5
+gjergo 	1	5
+hamdi 	1	5
+perparimi 	1	5
+shenjt leonardo murialdo 	3	5
+i gjeologjisë 	2	5
+teodori 	1	5
+e tiranës 	2	5
+rruga pjetër 	2	5
+cara 	1	5
+ambasada 	1	5
+kajo 	1	5
+malsubash 	1	5
+revolucioni 	1	5
+saraçi 	1	5
+kriva 	1	5
+komuna 	1	5
+çoba 	1	5
+i parë 	2	5
+nini luarasi 	2	5
+leonardo murialdo 	2	5
+dhe minierave 	2	5
+eqerem 	1	5
+selam musai 	2	5
+ii muzaka 	2	5
+nini 	1	5
+rruga qendressa 	2	5
+agrit 	1	5
+rruga at gjergj fishta 	4	5
+anastas 	1	5
+qosja 	1	5
+sabri 	1	5
+petro nini luarasi 	3	5
+turja 	1	5
+e diellit 	2	5
+zela 	1	5
+rruga besim 	2	5
+qamil guranjaku 	2	5
+rrga 	1	5
+live 	1	5
+qyteti 	1	5
+zeneli 	1	5
+zanave 	1	5
+rexhep 	1	5
+selam 	1	5
+myftiu 	1	5
+fakulteti i gjeologjisë dhe 	4	5
+vjeter 	1	5
+kalasë 	1	5
+konferenca 	1	5
+teodori ii muzaka 	3	5
+doktor 	1	5
+gent 	1	5
+elez 	1	5
+rrojej 	1	5
+kumbullave 	1	5
+zogu i parë 	3	5
+i tranës 	2	5
+rruga shenjt leonardo murialdo 	4	5
+kasemi 	1	5
+juka 	1	5
+american 	1	5
+gega oil 	2	5
+pali 	1	5
+rruga marie 	2	5
+fakulteti i gjeologjisë dhe minierave 	5	5
+zhan 	1	5
+niko 	1	5
+qafa e agrit 	3	5
+gjeologjisë dhe minierave 	3	5
+piazza 	1	5
+rruga shyqyri 	2	5
+thores 	1	5
+esat myftiu 	2	5
+konferenca e 	2	5
+konica 	1	5
+tefta 	1	5
+teli 	1	5
+kadare 	1	5
+rruga golemit 	2	5
+kondi 	1	5
+kinema 	1	5
+kostandin 	1	5
+rruga sami frashëri 	3	5
+rruga esat myftiu 	3	5
+rruga qafa e thores 	4	5
+rruga shenjt 	2	5
+rruga malsubash 	2	5
+zenebishti 	1	5
+rruga ali demi 	3	5
+rruga hafiz 	2	5
+hajdari 	1	5
+bulevardi republika 	2	5
+poradeci 	1	5
+qafa e thores 	3	5
+katedralja 	1	5

@@ -1,0 +1,10 @@
+addu atoll 	2	6
+main 	1	6
+addu 	1	6
+atoll 	1	6
+street 	1	6
+addu atoll main street 	4	6
+atoll main 	2	6
+atoll main street 	3	6
+addu atoll main 	3	6
+main street 	2	6
